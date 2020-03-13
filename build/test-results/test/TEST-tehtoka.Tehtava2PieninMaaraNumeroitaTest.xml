@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tehtoka.Tehtava2PieninMaaraNumeroitaTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-03-12T21:57:59" hostname="DESKTOP-QG56NOV" time="0.011">
+  <properties/>
+  <testcase name="testSamaVali" classname="tehtoka.Tehtava2PieninMaaraNumeroitaTest" time="0.002"/>
+  <testcase name="testSekaJarjestys" classname="tehtoka.Tehtava2PieninMaaraNumeroitaTest" time="0.0"/>
+  <testcase name="testlaskevaJarjestys" classname="tehtoka.Tehtava2PieninMaaraNumeroitaTest" time="0.001"/>
+  <testcase name="testSuurenevaJarjestys" classname="tehtoka.Tehtava2PieninMaaraNumeroitaTest" time="0.0"/>
+  <testcase name="testTyhjaTaulu" classname="tehtoka.Tehtava2PieninMaaraNumeroitaTest" time="0.001"/>
+  <testcase name="testEiValeja" classname="tehtoka.Tehtava2PieninMaaraNumeroitaTest" time="0.0"/>
+  <testcase name="testsSamatNumerot" classname="tehtoka.Tehtava2PieninMaaraNumeroitaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
